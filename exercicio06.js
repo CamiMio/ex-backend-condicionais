@@ -12,6 +12,6 @@ console.log("Reprovado");
 } else if (alturaEmCm >= 196 && alturaEmCm <= 205 ) {
     console.log("Oposto");
 
-}else if (alturaEmCm > 205){
+}else {
     console.log("Central");
 }
