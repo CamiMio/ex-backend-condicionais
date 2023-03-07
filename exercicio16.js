@@ -5,7 +5,7 @@ const idadeDoAluno = 16;
 const possuiResponsavel = false;
 
 
-if(idadeDoAluno > 18 || possuiResponsavel){
+if(idadeDoAluno >= 18 || possuiResponsavel){
 
     console.log("Faça sua rematrícula");
 
